@@ -8,6 +8,7 @@
             <h1>Pagina de Github De Lix</h1>
         </header>
         <p>Esta pagina sigue en desarrollo asi que no vengas por aca dentro de unos dias</p>
+        <h1>Recordatorio que esta pagina sera para lanzar mapas hechos en source (Garrys mod, CS:GO, TF2, etc)</h1>
         <p>si quieres puedes ver unas imagenes de gatos mientras creo esta pagina.</p>
         <h2>Gato 1</h2>
         <img src="/Gatos/gato1.png">
