@@ -17,7 +17,7 @@
         <img src="/Gatos/gato3.png">
         <footer>
             <p>con eso concluye este lugar hasta el momento<p>
-            <p>pero puedes ver lo que hago aqui > <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">Click</a> < </p>
+            <p>pero puedes ver lo que hago aqui<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"> >Click < </a></p>
             <p>y aunque este lugar no tiene copyright "&copy;lixgoodman2023" por si acaso
     </body>
 </html>
