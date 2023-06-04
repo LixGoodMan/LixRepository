@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html class="backhtml">    
     <head>
         <meta charset="utf-8">
