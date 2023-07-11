@@ -25,7 +25,7 @@
         <img src="http://drive.google.com/uc?export=view&id=1rB_SHUjsQnECHClX4nARVNIzT2cQwvM6">
         <img src="http://drive.google.com/uc?export=view&id=1SZsfPW6C55EJFqfjdcUGpJ-HoEoh3OMN">
         <img src="http://drive.google.com/uc?export=view&id=1nv043x4CYFCuMDGn6huZgEvmboG9FUYW">
-        <p>Funland es un mapa creado para Garry's Mod para el modo "DarkRp" el cual sigue en desarrollo pero pronto sera actualizado</p>
+        <p>Mapa Creado como un cuarto de grabacion (como el nombre lol) </p>
             <h1></h1>
             <p>con eso concluye este lugar hasta el momento<p>
             <p>pero puedes ver lo que hago aqui<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"> > Click < </a></p>
