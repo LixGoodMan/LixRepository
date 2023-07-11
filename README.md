@@ -22,9 +22,9 @@
         <p>Creador: LixGoodMan ( Yo:> )</p>
         <p>--> <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3002505229">Workshop</a> <-- </p>
         <p>Capturas</p>
-        <img src="http://drive.google.com/uc?export=view&id=1GEEkpbfcZth0oBELwUFjaR3fgzUmc1Ks">
-        <img src="http://drive.google.com/uc?export=view&id=1FiBUmTwqSYb_jgDmcO_31joQZPiEm6K6">
-        <img src="http://drive.google.com/uc?export=view&id=12aePIQQHyHp3ke8oKTAZaZ0766CTJ7LF">
+        <img src="http://drive.google.com/uc?export=view&id=1rB_SHUjsQnECHClX4nARVNIzT2cQwvM6">
+        <img src="http://drive.google.com/uc?export=view&id=1SZsfPW6C55EJFqfjdcUGpJ-HoEoh3OMN">
+        <img src="http://drive.google.com/uc?export=view&id=1nv043x4CYFCuMDGn6huZgEvmboG9FUYW">
         <p>Funland es un mapa creado para Garry's Mod para el modo "DarkRp" el cual sigue en desarrollo pero pronto sera actualizado</p>
             <h1></h1>
             <p>con eso concluye este lugar hasta el momento<p>
