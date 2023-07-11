@@ -12,7 +12,7 @@
         <p>Creador: LixGoodMan ( Yo:> )</p>
         <p>--> <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2830149140">Workshop</a> <-- </p>
         <p>Capturas</p>
-        <img src="http://drive.google.com/uc?export=view&id=HUjsQnECHClX4nARVNIzT2cQwvM6">
+        <img src="http://drive.google.com/uc?export=view&id=1GEEkpbfcZth0oBELwUFjaR3fgzUmc1Ks">
         <img src="http://drive.google.com/uc?export=view&id=1FiBUmTwqSYb_jgDmcO_31joQZPiEm6K6">
         <img src="http://drive.google.com/uc?export=view&id=12aePIQQHyHp3ke8oKTAZaZ0766CTJ7LF">
         <img src="http://drive.google.com/uc?export=view&id=1NVEYlTCBjbwIbMMQ-6KKm8gJhUA0KKbb">
