@@ -6,7 +6,7 @@
         <header>
             <h1>Pagina de Github De Lix</h1>
             <p>En esta pagina se subiran mapas del motor source (gmod, tf2, csgo, etc)</p>
-            <p>Subire mapas de mi propiedad pero puedes pedirme subir el tuyo en mi discord "LixGoodMan#9399"
+            <p>Subire mapas de mi propiedad pero puedes pedirme subir el tuyo en mi discord "lixgoodman"
         </header>
         <h2>FUNLAND_v1</h2>
         <p>Creador: LixGoodMan ( Yo:> )</p>
